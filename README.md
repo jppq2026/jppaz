@@ -134,6 +134,7 @@ Puedes ponerte en contacto conmigo a través de:
 - **LinkedIn**: [www.linkedin.com/in/juan-pablo-paz-quiroga](https://www.linkedin.com/in/juan-pablo-paz-quiroga)
 - **GitHub**: [github.com/jppq2026](https://github.com/jppq2026)
 - **GitLab**: [gitlab.com/jppq2026](https://gitlab.com/jppq2026)
+- **Portafolio**: [jppq2026.github.io](https://jppq2026.github.io/)
 - **Portafolio**: [jppaz23.github.io](https://jppaz23.github.io/)
 - **Proyectos**: [infinitydevlab.com](https://infinitydevlab.com/)
 
