@@ -1,20 +1,19 @@
 <header id="header">
-    <h1 id="logo"><a href="index.html" target="_blank">Juan Pablo Paz Quiroga</a></h1>
-    <nav id="nav">
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
-        <li>
-          <a href="#">Sobre mí</a>
-          <ul>
-            <li><a href="#one">Experiencia</a></li>
-            <li><a href="#two">Habilidades</a></li>
-            <li><a href="#three">Proyectos</a></li>
-            <li><a href="#four">Servicios</a></li>
-          </ul>
-        </li>
-        <li><a href="#four">Servicios</a></li>
-        <li><a href="#five" class="button primary">Contacto</a></li>
-      </ul>
-    </nav>
-  </header>
-  
+  <h1 id="logo"><a href="{{ '/' | relative_url }}">Juan Pablo Paz Quiroga</a></h1>
+  <nav id="nav">
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+      <li>
+        <a href="#">Acerca de</a>
+        <ul>
+          <li><a href="{{ '/#sobre-mi' | relative_url }}">Sobre mí</a></li>
+          <li><a href="{{ '/#experiencia' | relative_url }}">Experiencia</a></li>
+          <li><a href="{{ '/#habilidades' | relative_url }}">Habilidades</a></li>
+          <li><a href="https://infinitydevlab.com/">Proyectos</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ '/#servicios' | relative_url }}">Servicios</a></li>
+      <li><a href="{{ '/#contacto' | relative_url }}" class="button primary">Contacto</a></li>
+    </ul>
+  </nav>
+</header>
