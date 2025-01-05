@@ -136,7 +136,7 @@ Puedes ponerte en contacto conmigo a través de:
 - **GitLab**: [gitlab.com/jppq2026](https://gitlab.com/jppq2026)
 - **Portafolio**: [jppq2026.github.io](https://jppq2026.github.io/)
 - **Portafolio**: [jppaz23.github.io](https://jppaz23.github.io/)
-- **Proyectos**: [infinitydevlab.com](https://infinitydevlab.com/)
+- **Proyectos**: [jppq2026.infinitydevlab.com](https://jppq2026.infinitydevlab.com/)
 
 ¡Gracias por visitar mi portafolio! 🚀
 
