@@ -4114,4 +4114,7 @@ input, select, textarea {
 	#new-view {
 		margin-top: 80px; /* Ajusta este valor según la altura del header */
 		text-align: center; /* Centra el texto horizontalmente */
-	  }
+	}
+	#footer ul {
+		list-style-type: none; /* Elimina los puntos */
+	}
